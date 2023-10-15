@@ -6,3 +6,7 @@
 **Time:** 13:00-17:00 (break from 15:00-15:30)  
 **Title:** 202336 Interoperation and analytics of EHR data: Use cases for problem list, laboratory results, anatomic pathology and medications  
 **Presenters:** James Campbell, Stan Huff, Olivier Bodenreider, Scott Campbell
+
+**To extract the entire repository, please download a local copy as follows:**
+<img src="Images/download_instructions.png" width="75%" />
+
