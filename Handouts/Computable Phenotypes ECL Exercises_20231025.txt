@@ -156,6 +156,12 @@ ANTIBACTERIAL SUSCEPTIBILITIES
 ANTIBIOTIC MEDICINAL PRODUCTS IN RXNORM FOR TREATMENT
 << 763158003 |Medicinal product (product)| : << 127489000 |Has active ingredient (attribute)| = << 419241000 |Substance with antibacterial mechanism of action (substance)|
 
+RXNORM ANTIBACTERIALS CONTAINING ACTIVE INGREDIENTS AZTREONAM OR AMOXICILLIN
+((<< 69918003 |Product containing aztreonam (medicinal product)| OR << 27658006 |Product containing amoxicillin (medicinal product)|) :   << 411116001 |Has manufactured dose form (attribute)| = << 385287007 |Parenteral dose form (dose form)| ) {{ term = "RXNORM", type = fsn }}
+
+
+
+
 DILANTIN BLOOD LEVELS 
 << 363787002 |Observable entity (observable entity)| : 704319004 |Inheres in (attribute)| = << 762634006 |Acellular blood (substance)|, 246093002 |Component (attribute)| = << 387220006 |Phenytoin (substance)|
 
